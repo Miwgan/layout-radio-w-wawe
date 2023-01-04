@@ -21,4 +21,6 @@
 - Добавить фильтр сексции "Плейлисты" 
 
 
-https://miwgan.github.io/layout-radio-w-wawe/
+<a href="https://vitebskiy.github.io/layout-radio-w-wawe/">Демо</a>
+
+<a href="https://www.figma.com/file/QYE4KMNuAjfLVcAkBR6zYx/Landing_4-(W-Wave-Radio)-(Copy)?t=ds8hgO6OzHuOdD4i-0">Макет (Figma)</a>
